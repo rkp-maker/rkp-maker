@@ -1,1 +1,0 @@
-This repository contains all of the work I have done so far to create my website.
